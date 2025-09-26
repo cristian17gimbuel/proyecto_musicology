@@ -363,7 +363,8 @@ footer {
     }
 
     .bac {
-        padding: 43% 7% 0 7%;
+        padding: 31% 7% 7% 7%;
+        height: auto;
     }
 
     .bac p {
