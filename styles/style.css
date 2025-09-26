@@ -168,7 +168,8 @@ footer {
 /* RESPONSIVE */
 @media (max-width: 1279px) {
     .bac {
-        padding: 11% 7% 0 7%;
+        padding: 17% 7% 3% 7%;
+        height: auto;
     }
 
     .bac p {
@@ -220,7 +221,8 @@ footer {
     }
 
     .bac {
-        padding: 16% 7% 0 7%;
+        padding: 22% 7% 3% 7%;
+        height: auto;
     }
 
     .bac h1 {
@@ -285,7 +287,8 @@ footer {
     }
 
     .bac {
-        padding: 29% 7% 0 7%;
+        padding: 27% 7% 3% 7%;
+        height: auto;
     }
 
     .bac h1 {
